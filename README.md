@@ -46,6 +46,7 @@
     - isValidInput이 true를 반환하면 다음 단계 진행, false를 반환하면 alert호출 후 return
   - play 메서드 호출
   - 결과 값을 div(id=result)에 반영
+  - 기존 input을 'read-only'로 바꾸고 새로운 input을 
   - '정답'일 경우 재시작 버튼 노출
 
 - button(id=game-restart-button) click 이벤트
