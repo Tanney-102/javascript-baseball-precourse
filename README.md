@@ -19,8 +19,8 @@
 ## 세부 기능 분류
 
 - 랜덤한 3자리 수를 생성
-  - 생성자 함수 BaseballGame이 호출 될때마다 랜덤한 3자리 수를 만들어 this.comNum에 저장
-  - getRandNum 메서드로 구현
+  - 랜덤한 3자리 수를 만들어 comNum에 저장
+  - getRandNum 함수로 구현
 
 - 입력 값이 유효한지 확인
   - isValidInput(유저의 입력)  메서드로 구현
