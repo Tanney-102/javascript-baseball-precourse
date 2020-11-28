@@ -41,6 +41,12 @@
   - 스트라이크가 있는지 확인
   - 결과값을 형식에 맞춰 반환
   
+- 새로운 입력 폼을 추가
+  - addNewInput 함수로 구현
+  
+- 게임 종료 메시지와 함께 재시간 버튼 추가
+  - endGame 함수로 
+  
 - button(id=submit) click 이벤트
   - 입력 값 유효성 확인
     - isValidInput이 true를 반환하면 다음 단계 진행, false를 반환하면 alert호출 후 return
